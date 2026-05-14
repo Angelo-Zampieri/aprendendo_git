@@ -1,2 +1,2 @@
-# aprendendo_git
-repositório git para aprender em ciência de dados
+# aula de git de 2026
+repositório git para aprender como usar o git em prática em ciência de dados
